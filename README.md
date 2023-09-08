@@ -29,6 +29,8 @@
 
 - 之后，确认设备上的Hamibot的无障碍服务开启。
 
+- 前往词达人的选项页面（注意，必须是拥有四个选项的单选题页面。其他题型程序无法作答，会自动停止。）
+
 - 最后，前往[开发](https://hamibot.com/dashboard/scripts/console)运行脚本。
 
 - 欲想停止脚本，除了可以在[机器人](https://hamibot.com/dashboard/robots)、[开发](https://hamibot.com/dashboard/scripts/console)内停止外，还可以直接关闭Hamibot。
