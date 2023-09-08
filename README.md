@@ -3,7 +3,7 @@
 
 # Hamibot 词达人自动完成脚本
 
-<a href="https://hamibot.com/" target="_blank"><img src="./Doc/Resource/WorkWithHamibot.png" alt="Power by Hamibot" width='200'></img></a> 
+<a href="https://hamibot.com/" target="_blank"><img src="https://github.com/gaobobo/Hamibot-XueXitongAuto/blob/main/Doc/Resource/WorkWithHamibot.png" alt="Power by Hamibot" width='200'></img></a> 
 
 </div>
 
