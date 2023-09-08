@@ -54,7 +54,7 @@
 ```json
 {
     "fileMark": {
-        "scriptFile": "src/index.js",
+        "scriptFile": "src/main.js",
         "configFile": "src/config.json"
     },
     "name": "对应Hamibot开发内的脚本名称",
