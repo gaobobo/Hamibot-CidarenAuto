@@ -269,27 +269,27 @@ for(;;) {
     console.info("点击结果：");
     if (click(possiableAnswer)) {
         console.info("成功！");
-        sleep(500);
+        sleep(1000);
     } else {
         exitThisProgram.occuredErrorToExit("点击失败。程序将于3秒后退出。");
     }
 
     if (click("继续")) {
         getPossiableAnswer_Temp.clearPossiableAnwerHistory();
-        console.info("检测到继续按钮，此题作答正确，500毫秒后进入下一题"); 
-        sleep(500);
+        console.info("检测到继续按钮，此题作答正确，1000毫秒后进入下一题"); 
+        sleep(1000);
     } else {
-        console.error("选项错误。500毫秒后刷新。");
-        sleep(500);
+        console.error("选项错误。1000毫秒后刷新。");
+        sleep(1000);
 
         if (refreshWebView()) {
-            console.info("刷新成功。等待两秒后继续。");
+            console.info("刷新成功。等待1000毫秒后继续。");
         } else {
             exitThisProgram.occuredErrorToExit("刷新失败。程序将于3秒后退出。")
         }
     }
 
-    sleep(500);
+    sleep(1000);
 
 }
 
